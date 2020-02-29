@@ -1,0 +1,5 @@
+{
+  "name": "terraform_ecs_app",
+  "private": true,
+  "dependencies": {}
+}
